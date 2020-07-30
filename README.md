@@ -2,6 +2,15 @@
 
 ## Routes
 
-### Login /
-### Users List/Dashboard /users
+### Login
+```javascript
+/
+```
+### Users List/Dashboard
+```javascript
+/users
+```
 ### Users Detail /users/:id
+```javascript
+/users/:id
+```
