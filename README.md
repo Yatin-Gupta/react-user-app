@@ -10,7 +10,7 @@
 ```javascript
 /users
 ```
-### Users Detail /users/:id
+### Users Detail
 ```javascript
 /users/:id
 ```
